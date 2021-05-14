@@ -1,1 +1,5 @@
 env/
+.hypothesis
+.pycache
+.pytest_cache
+__pycache__
